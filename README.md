@@ -24,8 +24,8 @@ The Chat application will soon be available online. Link will be here
 
 This project is being developed collaboratively by a team of interns. The backend development is handled by my colleagues, while I am responsible for the frontend.
 
-- **Frontend Development**: [Your Name]
-- **Backend Development**: [Your Colleagues' Names]
+- **Frontend Development**: Igor5567
+- **Backend Development**: Unnamed
 
 You can check out the backend repository here: [Backend Repository](https://github.com/Kuba123/chat-backend)
 
